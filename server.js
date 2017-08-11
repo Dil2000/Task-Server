@@ -15,9 +15,9 @@ app.set("view engine", "handlebars");
 var mysql = require("mysql");
 
 var connection = mysql.createConnection({
-  host: "localhost",
-  user: "root",
-  password: "",
+  host: "mna97msstjnkkp7h.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
+  user: " vkepj7bxyushec62",
+  password: "z6ipautgk863ehfi",
   database: "task_saver_db"
 });
 
